@@ -1,0 +1,11 @@
+rank,player,nationality,role,availability,p_balls,p_sr,sr_lift_pct,p_bndry_pct,p_avg,p_dism_rate,composite,rr_fit,combined
+1,Rassie van der Dussen,Overseas,Middle-order Finisher,AUCTION_AVAILABLE,37,240.5,47.8,37.8,59.3,2.7,94.95,100,100.0
+2,Najibullah Zadran,Overseas,Lower-order Hitter,AUCTION_AVAILABLE,27,214.8,53.6,33.3,23.2,3.7,87.82,100,97.67
+3,Moeen Ali,Overseas,Batting All-rounder,AUCTION_AVAILABLE,72,195.8,38.5,30.6,25.6,2.78,87.03,100,95.33
+4,Evin Lewis,Overseas,Explosive Opener,AUCTION_AVAILABLE,21,161.9,20.4,28.6,68.0,0.95,86.46,100,93.0
+5,Mark Chapman,Overseas,Top-order Batter,AUCTION_AVAILABLE,60,173.3,31.4,25.0,41.6,1.67,84.49,100,81.33
+6,Mahipal Lomror,Indian,Middle-order Finisher,AUCTION_AVAILABLE,31,206.5,57.6,32.3,18.3,3.23,84.13,100,79.0
+7,Sikandar Raza,Overseas,Batting All-rounder,AUCTION_AVAILABLE,69,175.4,30.8,23.2,26.9,2.9,82.08,100,72.0
+8,Reeza Hendricks,Overseas,Opening Batter,AUCTION_AVAILABLE,44,170.5,33.4,27.3,21.4,2.27,80.81,100,69.67
+9,Prashant Veer,Overseas,Middle-order Batter,AUCTION_AVAILABLE,31,148.4,29.0,22.6,30.7,3.23,77.08,100,65.0
+10,Shimron Hetmyer,Overseas,Explosive Finisher,AUCTION_AVAILABLE,155,167.7,24.2,23.9,19.3,3.23,76.71,100,62.67

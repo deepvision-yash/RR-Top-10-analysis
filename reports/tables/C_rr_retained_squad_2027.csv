@@ -1,0 +1,20 @@
+player_name,primary_role,nationality,is_overseas,batting_position,status
+Riyan Parag,Batter,Indian,False,Middle-order,CONFIRMED_RETAINED
+Yashasvi Jaiswal,Opener/Batter,Indian,False,Opener,CONFIRMED_RETAINED
+Ravindra Jadeja,All-rounder,Indian,False,Middle-order,CONFIRMED_RETAINED
+Vaibhav Sooryavanshi,Batter,Indian,False,Opener,CONFIRMED_RETAINED
+Dhruv Jurel,WK-Batter,Indian,False,Middle-order,CONFIRMED_RETAINED
+Jofra Archer,Fast Bowler,Overseas,True,Lower-order,CONFIRMED_RETAINED
+Ravi Bishnoi,Leg Spinner,Indian,False,Lower-order,CONFIRMED_RETAINED
+Sandeep Sharma,Pace Bowler,Indian,False,Lower-order,CONFIRMED_RETAINED
+Nandre Burger,Fast Bowler,Overseas,True,Lower-order,CONFIRMED_RETAINED
+Donovan Ferreira,Batter/WK,Overseas,True,Middle-order,CONFIRMED_RETAINED
+Shubham Dubey,All-rounder,Indian,False,Middle-order,CONFIRMED_RETAINED
+Sushant Mishra,Pace Bowler,Indian,False,Lower-order,CONFIRMED_RETAINED
+Lhuan-dre Pretorius,Batter,Overseas,True,Middle-order,CONFIRMED_RETAINED
+Aman Rao Perala,Utility,Indian,False,Lower-order,CONFIRMED_RETAINED
+Brijesh Sharma,Utility,Indian,False,Lower-order,CONFIRMED_RETAINED
+Yash Raj Punja,Utility,Indian,False,Lower-order,CONFIRMED_RETAINED
+Dasun Shanaka,All-rounder,Overseas,True,Middle-order,CONFIRMED_RETAINED
+Mohammed Shami,Fast Bowler,Indian,False,Lower-order,CONFIRMED_RETAINED_TRADE
+Manimaran Siddharth,Spinner,Indian,False,Lower-order,CONFIRMED_RETAINED_TRADE
